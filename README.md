@@ -70,10 +70,7 @@ The analysis was performed in **Jupyter Notebook** using **NumPy, Pandas, Matplo
 ## 🧠 Conclusion
 From the analysis, we can conclude that:
 
-- **Married women** aged **26–35 years**  
-- Belonging to **Uttar Pradesh, Maharashtra, and Karnataka**  
-- Working in **IT, Healthcare, and Aviation sectors**  
-- Are more likely to purchase products from **Food, Clothing, and Electronics** categories.  
+- **Married women** aged **26–35 years**  Belonging to **Uttar Pradesh, Maharashtra, and Karnataka**  Working in **IT, Healthcare, and Aviation sectors** Are more likely to purchase products from **Food, Clothing, and Electronics** categories.  
 
 ---
 
